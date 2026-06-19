@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Stochastic Parrot?",
+  "universe": "NTP · The Stochastic Parrot? (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Stochastic Parrot?:NTP:f329da⟧",
+  "carbon": "the-stochastic-parrot.carbon.tiff (TIFF)",
+  "silicon": "the-stochastic-parrot.silicon.png (PNG)",
+  "seal_sha256": "449a606139422aa1b043e2c63d3a3b9e7c9699d0b002fbca0199bcf6073830f9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

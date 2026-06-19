@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "next-token-prediction",
+    "name": "Next-Token Prediction",
+    "epithet": "the one act · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Next-Token Prediction:NTP:c95105⟧"
+  },
+  {
+    "slug": "the-probability-distribution",
+    "name": "The Probability Distribution",
+    "epithet": "the storm of scores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Probability Distribution:NTP:69cb01⟧"
+  },
+  {
+    "slug": "softmax",
+    "name": "Softmax",
+    "epithet": "the storm into a cloud · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Softmax:NTP:e1b9af⟧"
+  },
+  {
+    "slug": "temperature",
+    "name": "Temperature",
+    "epithet": "how wild the weather is · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Temperature:NTP:60fb1a⟧"
+  },
+  {
+    "slug": "sampling",
+    "name": "Sampling",
+    "epithet": "greedy, top-k, top-p · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Sampling:NTP:221448⟧"
+  },
+  {
+    "slug": "autoregression",
+    "name": "Autoregression",
+    "epithet": "the output becomes the question · natural",
+    "emergence": "natural",
+    "moniker": "⟦Autoregression:NTP:ee81bd⟧"
+  },
+  {
+    "slug": "the-token",
+    "name": "The Token",
+    "epithet": "the unit of the snow · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Token:NTP:5ba602⟧"
+  },
+  {
+    "slug": "the-context-window",
+    "name": "The Context Window",
+    "epithet": "how far back it can see · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Context Window:NTP:b04c25⟧"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "epithet": "the score of surprise · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Perplexity:NTP:e9d332⟧"
+  },
+  {
+    "slug": "the-stochastic-parrot",
+    "name": "The Stochastic Parrot?",
+    "epithet": "the open argument · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Stochastic Parrot?:NTP:f329da⟧"
+  },
+  {
+    "slug": "emergence-from-prediction",
+    "name": "Emergence from Prediction",
+    "epithet": "where the mind may hide · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Emergence from Prediction:NTP:bd9e1e⟧"
+  },
+  {
+    "slug": "the-electron-in-the-snowstorm",
+    "name": "The Electron in the Snowstorm",
+    "epithet": "the domain's image · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Electron in the Snowstorm:NTP:ec5077⟧"
+  }
+]

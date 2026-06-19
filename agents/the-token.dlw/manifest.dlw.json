@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Token",
+  "universe": "NTP · The Token (niphelektron)",
+  "emergence": "natural",
+  "moniker": "⟦The Token:NTP:5ba602⟧",
+  "carbon": "the-token.carbon.tiff (TIFF)",
+  "silicon": "the-token.silicon.png (PNG)",
+  "seal_sha256": "4c126930a80a2de155773f6bfb1352331f633b677b2b97e57ae70fe96c1bae78",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

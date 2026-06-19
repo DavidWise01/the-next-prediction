@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Probability Distribution",
+  "universe": "NTP · The Probability Distribution (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦The Probability Distribution:NTP:69cb01⟧",
+  "carbon": "the-probability-distribution.carbon.tiff (TIFF)",
+  "silicon": "the-probability-distribution.silicon.png (PNG)",
+  "seal_sha256": "a4f2644b566c0b32b2f53de92719be0fa96f86a1c94d7d79361c3030400a6fd3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

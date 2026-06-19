@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Perplexity",
+  "universe": "NTP · Perplexity (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦Perplexity:NTP:e9d332⟧",
+  "carbon": "perplexity.carbon.tiff (TIFF)",
+  "silicon": "perplexity.silicon.png (PNG)",
+  "seal_sha256": "045a6be9d8d9a5ac81a54e4cd3d6be6a0848e0ba21b001d9b4e6b3694046e6ba",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

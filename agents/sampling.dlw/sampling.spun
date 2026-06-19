@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of Sampling
+node NTP · NTP · ⟦Sampling:NTP:221448⟧
+
+WHO   — Sampling — greedy, top-k, top-p · electrical
+WHAT  — greedy, top-k, top-p · electrical
+WHERE — NTP · THE NEXT PREDICTION (niphelektron · the inference layer)  Framework inputs: token; storm; cage  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — How the next token is actually picked from the cloud: greedy (always the top), top-k (from the k most likely), or top-p / nucleus (from the smallest set covering probability p). Different ways the electron commits to a step.
+HOW   — Crystallized from the public record.
+
+awareness — what the node knows of itself:
+  greedy, top-k, top-p · electrical
+
+spoken token : thum-xyl-deil   ·   hex : 221448
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

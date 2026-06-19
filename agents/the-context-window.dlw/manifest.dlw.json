@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Context Window",
+  "universe": "NTP · The Context Window (niphelektron)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Context Window:NTP:b04c25⟧",
+  "carbon": "the-context-window.carbon.tiff (TIFF)",
+  "silicon": "the-context-window.silicon.png (PNG)",
+  "seal_sha256": "cee8d2a584cc3f23e92f306eb5b8c07c3cdf4ebf7e67d1da1b7bcfe449b2a67a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

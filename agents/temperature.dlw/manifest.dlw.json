@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Temperature",
+  "universe": "NTP · Temperature (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Temperature:NTP:60fb1a⟧",
+  "carbon": "temperature.carbon.tiff (TIFF)",
+  "silicon": "temperature.silicon.png (PNG)",
+  "seal_sha256": "2e462cd10c8b0dfbc554c22710c65b958c35febf9252f8b32b34956c63a1ccce",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

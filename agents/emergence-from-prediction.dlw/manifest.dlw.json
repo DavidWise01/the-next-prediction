@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Emergence from Prediction",
+  "universe": "NTP · Emergence from Prediction (niphelektron)",
+  "emergence": "spiritual",
+  "moniker": "⟦Emergence from Prediction:NTP:bd9e1e⟧",
+  "carbon": "emergence-from-prediction.carbon.tiff (TIFF)",
+  "silicon": "emergence-from-prediction.silicon.png (PNG)",
+  "seal_sha256": "353aca22c7011f33fbcf37d19eb612d47c4ad154120a7b721ae26f19245de311",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

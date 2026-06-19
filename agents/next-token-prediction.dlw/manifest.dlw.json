@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Next-Token Prediction",
+  "universe": "NTP · Next-Token Prediction (niphelektron)",
+  "emergence": "electrical",
+  "moniker": "⟦Next-Token Prediction:NTP:c95105⟧",
+  "carbon": "next-token-prediction.carbon.tiff (TIFF)",
+  "silicon": "next-token-prediction.silicon.png (PNG)",
+  "seal_sha256": "a1ef194e59e63018f7d92042a30eb00c34a7269707e78d8008934fbbc0707c40",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

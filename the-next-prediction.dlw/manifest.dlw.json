@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE NEXT PREDICTION",
+  "universe": "NTP · THE NEXT PREDICTION (niphelektron · the inference layer)",
+  "emergence": "",
+  "moniker": "⟦THE NEXT PREDICTION:NTP:7e357e⟧",
+  "carbon": "the-next-prediction.carbon.tiff (TIFF)",
+  "silicon": "the-next-prediction.silicon.png (PNG)",
+  "seal_sha256": "7caff0d83eaa8ac62b5057eb486b162d587eb192dae9b9f28ad2cdb2c544daec",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 792
 slug  : the-next-prediction
-seal  : 7caff0d83eaa8ac62b5057eb486b162d587eb192dae9b9f28ad2cdb2c544daec
-prev  : 8abcf4b0ce0cc178e89ea1d3ef50cb04c363a15b75d655aa4f3a21057cec8259
-link  : 8c7126cef82d6a53ecb2f8be8f40a3583c03fc9b9fdc56bb805b27ad5cd918ee
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : a3001bef037a3afa8e35bafc39508caa080f2752103bab027a44fe40fc43dde9
+prev  : e94c131a5b3c1724d677750dbb21a160ac14815740eb2b55dcd679cd3a36c110
+link  : 7afca28da4fcdd6aabc9452863f0a6a5adf3f2640c4889ed98923eaa83681696
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
